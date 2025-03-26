@@ -26,7 +26,9 @@
 ![Análisis Estadístico](https://img.shields.io/badge/Análisis_Estadístico-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianitais&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianitais&layout=compact&theme=dark" />
+</p>
 
 ## 📊 Mis estadísticas:
 <p align="center">
