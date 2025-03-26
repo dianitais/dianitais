@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3318ca2f-3af2-4c98-9a0c-63097c301a8e" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7277abae-2668-4de5-863a-adbaba78f5a7" alt="Banner" width="100%" />
 </p>
 
 👋 #¡Hola! Soy una Analista de Datos con formación en Ingeniería de Sistemas y un enfoque en la transformación y visualización de datos. Me encanta organizar la información para hacerla clara y útil.
