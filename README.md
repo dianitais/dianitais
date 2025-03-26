@@ -26,11 +26,10 @@
 ![Análisis Estadístico](https://img.shields.io/badge/Análisis_Estadístico-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 
 
+## 📊 Mis estadísticas:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianitais&layout=compact&theme=dark" />
 </p>
 
-## 📊 Mis estadísticas:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianitais&theme=dark" alt="Streak Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianitais&show_icons=true&theme=dark)
