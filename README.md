@@ -1,4 +1,8 @@
-👋 ¡Hola! Soy una Analista de Datos con formación en Ingeniería de Sistemas y un enfoque en la transformación y visualización de datos. Me encanta organizar la información para hacerla clara y útil.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3318ca2f-3af2-4c98-9a0c-63097c301a8e" alt="Banner" width="100%" />
+</p>
+
+👋 #¡Hola! Soy una Analista de Datos con formación en Ingeniería de Sistemas y un enfoque en la transformación y visualización de datos. Me encanta organizar la información para hacerla clara y útil.
 
 ## 🔹 Habilidades principales:  
 - ✔ **Análisis de Datos:** Exploración, limpieza y modelado de datos para extraer insights valiosos.  
