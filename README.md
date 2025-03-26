@@ -31,5 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianitais&layout=compact&theme=dark" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianitais&show_icons=true&theme=dark)
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dianitais&show_icons=true&theme=dark" />
+</p>
