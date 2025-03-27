@@ -29,7 +29,7 @@
 ![EDA](https://img.shields.io/badge/EDA-6DA544?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Análisis Estadístico](https://img.shields.io/badge/Análisis_Estadístico-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 
-
+"""
 ## 📊 Mis estadísticas:
 
 <p align="center">
@@ -39,3 +39,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dianitais&show_icons=true&theme=dark" />
 </p>
+"""
