@@ -4,8 +4,7 @@
 
 👋 #¡Hola! Soy una Analista de Datos con formación en Ingeniería de Sistemas y un enfoque en la transformación y visualización de datos. Me encanta organizar la información para hacerla clara y útil.
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/dianagonz%C3%A1lezs/)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/dianagonz%C3%A1lezs/)
 
 ## 🔹 Habilidades principales:  
 - ✔ **Análisis de Datos:** Exploración, limpieza y modelado de datos para extraer insights valiosos.  
